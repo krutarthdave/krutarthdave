@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krutarthdave
 - 👀 I’m interested in ...Full stack Development
 - 🌱 I’m currently learning ...AI technologies and Cloud Technologies
-- 💞️ I’m looking to collaborate on ...Full stack Development/AI/Clpud Development
+- 💞️ I’m looking to collaborate on ...Full stack Development/AI/Cloud Development
 - 📫 How to reach me ...
 
 <!---
